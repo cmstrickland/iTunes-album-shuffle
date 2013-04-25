@@ -52,5 +52,5 @@ probably expects this to already be created.
 
 Create the playlist, edit the settings, and then run `./shuffle.py`.
 The script will produce diagnostic messages as it goes. Playlist
-creatinon is a little slow, but should run to completion in a couple
+creation is a little slow, but should run to completion in a couple
 of seconds.
