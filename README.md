@@ -28,7 +28,7 @@ rebalance.
 ## requirements
 
 The script manipulates iTunes via apple events, and it uses the lovely
-[appscript python module][http://appscript.sourceforge.net/py-appscript/index.html] to do so. Unfortunately appscript is
+[appscript python module](http://appscript.sourceforge.net/py-appscript/index.html) to do so. Unfortunately appscript is
 deprecated and the author discourages it's use for any new programs.
 At the time of writing, appscript and this script work fine on the
 latest iTunes 11 and OS X Mountain Lion.
